@@ -70,29 +70,29 @@ Foi Criado um sistema web que comporta toda a funcionalidade pedida para o contr
   ### Executa a Classe de Test CadastroClientesRestControllerTest que testa a API CadastroClientesRestController
   
   
-##Teste Unitário
+## Teste Unitário
 
-  ####################### testCadastro #######################
+  #### testCadastro
   cliente Criado com sucesso!
   
-  ####################### testConsultaId #######################
+  #### testConsultaId 
   Nome : cliente 1
   
-  ####################### testConsultaNome #######################
+  #### testConsultaNome 
   Nome : cliente 3
 
-  ####################### testConsultaCpf #######################
+  #### testConsultaCpf 
   Nome : cliente 3 
 
-  ####################### testAlteracao #######################
+  #### testAlteracao 
   Atualização cliente com sucesso!  
   
-  ####################### testConsultaTodos #######################
+  #### testConsultaTodos 
   Nome : cliente 1
   Nome : cliente 1-2
   Nome : cliente 3
   
-  ####################### testRemocao #######################
+  #### testRemocao 
   cliente deletado com sucesso!  
   
 
