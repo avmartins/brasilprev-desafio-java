@@ -1,0 +1,8 @@
+2020-09-15 17:30:02 INFO  AuthController:27 - Nome de usuário ou senha inválidos!
+2020-09-15 17:30:06 INFO  AuthController:27 - Nome de usuário ou senha inválidos!
+2020-09-15 17:32:23 INFO  AuthController:27 - Nome de usuário ou senha inválidos!
+2020-09-15 17:34:30 INFO  UserController:90 - Usuário excluído
+2020-09-15 18:27:21 INFO  ClienteController:58 - Erro ao incluir a cliente
+2020-09-15 18:29:19 INFO  ClienteController:58 - Erro ao incluir a cliente
+2020-09-15 18:37:45 INFO  AuthController:27 - Nome de usuário ou senha inválidos!
+2020-09-15 18:48:11 INFO  ClienteController:87 - cliente excluído
